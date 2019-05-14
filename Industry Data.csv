@@ -1,0 +1,34 @@
+Employee Table
+PERSON_NAME,	STREET,	CITY
+Jacob,	West Taylor,	Miami
+Alexander,	Loomis,	Chicago
+Jessica,	Morgan,	New York
+Andrew,	Polk,	Chicago
+Evan,	Michigan,	Austin
+Nicholas,	Roosevelt,	Los Angeles
+Amy,	Roosevelt,	Springfield
+Cassy,	Clinton,	Nashville
+William,	Polk,	Lincoln
+
+Employment Table
+PERSON_NAME,	COMPANY_NAME,	SALARY
+Jacob,	Amazon,	"15,000"
+Alexander,	American Airline,	"9,500"
+Jessica,	Amazon,	"12,000"
+Andrew,	Starbucks,	"9,000"
+Evan,	Facebook,	"18,000"
+Nicholas,	First Bank,	20,000"
+Amy,	American Airline,	"9,000"
+Cassy,	Central Bank,	"14,000"
+William,	Nestlé,	"9,800"
+
+Company Table
+COMPANY_NAME,	City
+First Bank,	Miami
+Amazon,	Chicago
+Apple,	Los Angeles
+Central Bank,	Nashville
+Nestlé,	Lincoln
+Facebook,	Austin
+Starbucks,	Chicago
+American Airline,	San Francisco

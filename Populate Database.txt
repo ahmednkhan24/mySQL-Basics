@@ -1,0 +1,15 @@
+EITHER 
+
+mysql
+CREATE DATABASE University;
+exit
+mysql University < DDL-MySQL.sql;
+mysql University < largeRelationsInsertFile.sql
+
+OR
+
+mysql
+CREATE DATABASE University;
+USE University;
+SOURCE DDL-MySQL.sql;
+SOURCE largeRelationsInsertFile.sql;
